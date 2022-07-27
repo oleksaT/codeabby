@@ -14,7 +14,7 @@ public class SumDigits {
             int c = scanner.nextInt();
             System.out.println();
 
-            sum = a * b + c; // подсчёт суммы
+            sum = a * b + c; // calculation of the amount
             System.out.print(sum + " ");
 
             int sum_digits = 0;
